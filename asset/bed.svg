@@ -1,0 +1,11 @@
+<svg width="80" height="80" viewBox="0 0 80 80" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="icon / tabler-icons / bed" clip-path="url(#clip0_1133_13950)">
+<path id="Vector" d="M70 59.9999V33.3333C70 31.5651 69.2976 29.8694 68.0474 28.6192C66.7971 27.369 65.1014 26.6666 63.3333 26.6666H36.6667V46.6666M10 23.3333V59.9999V23.3333ZM10 46.6666H70H10Z" stroke="#C6B8FF" stroke-width="7" stroke-linecap="round" stroke-linejoin="round"/>
+<path id="Vector_2" d="M23.3333 36.6667C25.1743 36.6667 26.6667 35.1743 26.6667 33.3333C26.6667 31.4924 25.1743 30 23.3333 30C21.4924 30 20 31.4924 20 33.3333C20 35.1743 21.4924 36.6667 23.3333 36.6667Z" stroke="#C6B8FF" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+</g>
+<defs>
+<clipPath id="clip0_1133_13950">
+<rect width="80" height="80" fill="white"/>
+</clipPath>
+</defs>
+</svg>
