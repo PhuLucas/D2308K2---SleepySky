@@ -293,3 +293,27 @@ h2 {
 .btn-seconds:hover {
     background-color: #F9EAC2;
 }
+
+.background-color6,footer {
+    background-color: #161622;
+}
+
+.background-color6 h1 {
+    color: var(--Primary-3, #C6B8FF);
+    text-align: center;
+    font-family: "Readex Pro";
+    font-size: 38px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 130%; /* 62.4px */
+    letter-spacing: 1px;
+    text-transform: uppercase;
+}
+
+footer p {
+    color: #ACADC1;
+    font-family: "Readex Pro";
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 300;
+}
